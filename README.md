@@ -27,7 +27,7 @@ We built a unified dataset that enables both signature detection and verificatio
 
 
 ## Pipeline Overview
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img src="assets/pipeline.png" alt="pipeline" style="display: block; margin: auto;">
     <div style="font-style: italic;">Figure 1: Detection and Verification Pipeline.</div>
 </div>
@@ -71,7 +71,7 @@ To determine whether a given signature is genuine or forged, we employ a Siamese
 
 The network learns an embedding space where genuine pairs are close and forged pairs are far apart, using a contrastive or binary classification loss.
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img src="assets/siamese_structure.jpg" alt="siamese_model" style="display: block; margin: auto;">
     <div style="font-style: italic;">Figure 2: Architectural Design for Siamese Model.</div>
 </div>

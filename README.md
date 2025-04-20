@@ -96,7 +96,7 @@ Several directions can further enhance the robustness and real-world performance
 > These upgrades aim to create a scalable, real-world–ready signature verification system.
 
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Thank you to everyone who contributed ideas, feedback, and support throughout this project.  
 Special thanks to the creators of the original datasets and the open-source community for providing the tools that made this pipeline possible.
